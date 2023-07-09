@@ -4,7 +4,7 @@
   ![MIT](https://img.shields.io/badge/license-MIT-green)
 
   ## Description
-  This is a README Generator.
+  This is a README Generator.  A Video Walkthrough is available [here](https://drive.google.com/file/d/1Y95bOxht53XnmAHiZnEqA3DQeM0VXuMr/view?usp=sharing).
 
   ## Table of Contents
   1. [Installation](#installation)
